@@ -77,7 +77,7 @@
         <liquibase.version>3.5.3</liquibase.version>
         <postgresql.version>9.4.1212</postgresql.version>
         <jaxb.xew.version>1.9</jaxb.xew.version>
-        <findbugs.annotations.version>3.0.0</findbugs.annotations.version>
+        <findbugs.annotations.version>3.0.1u2</findbugs.annotations.version>
         <!-- Plugin versies -->
         <cxf.plugin.version>3.1.11</cxf.plugin.version>
         <aspectj.plugin.version>1.4</aspectj.plugin.version>
