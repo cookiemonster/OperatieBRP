@@ -13,7 +13,7 @@
     "angular-bootstrap": "^0.12.1",
     "angular-bootstrap-datetimepicker": "0.3.15",
     "angular-loading-bar": "0.8.0",
-    "angular-local-storage": "0.1.5",
+    "angular-local-storage": "0.7.1",
     "angular-resource": "1.4.8",
     "angular-route": "1.4.8",
     "angular-sanitize": "1.4.8",
