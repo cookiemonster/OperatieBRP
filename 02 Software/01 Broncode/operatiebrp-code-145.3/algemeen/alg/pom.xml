@@ -75,7 +75,7 @@
         <git.revision>${env.GIT_COMMIT}</git.revision>
         <!-- Frameworks -->
         <liquibase.version>3.5.3</liquibase.version>
-        <postgresql.version>9.4.1212</postgresql.version>
+        <postgresql.version>9.4.1212.jre7</postgresql.version>
         <jaxb.xew.version>1.9</jaxb.xew.version>
         <findbugs.annotations.version>3.0.0</findbugs.annotations.version>
         <!-- Plugin versies -->
