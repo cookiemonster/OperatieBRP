@@ -36,7 +36,7 @@
             <dependency>
                 <groupId>org.hsqldb</groupId>
                 <artifactId>hsqldb</artifactId>
-                <version>2.3.4</version>
+                <version>2.6.0</version>
             </dependency>
             <!-- Spring BOM managed versie (1.2.0) java.lang.ClassNotFoundException: com.jayway.jsonpath.spi.mapper.JacksonMappingProvider -->
             <dependency>
