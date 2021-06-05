@@ -20,7 +20,7 @@
     "angular-ui-select": "0.12.100",
     "bootstrap": "3.3.6",
     "gulp": "^3.9.1",
-    "jquery": "2.1.4",
+    "jquery": "2.2.4",
     "moment": "2.10.6"
   },
   "devDependencies": {
