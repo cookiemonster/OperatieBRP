@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.29.4-trixie
 
 COPY dist /usr/share/nginx/html
 COPY nginx/run.sh /run.sh
